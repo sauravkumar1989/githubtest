@@ -1,0 +1,41 @@
+﻿.table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+label {
+    font-size: 14px;
+}
+
+.table tr th {
+    border: solid 1px #000;
+}
+
+.form-control {
+    margin-bottom: 2px;
+}
+
+.pad {
+    padding: 0px;
+}
+
+span {
+    font-weight: bold;
+}
+
+.inputapi-transliterate-indic-suggestion-menu {
+    background: #fff url(images/suggestmenu_bg.png) repeat-x left bottom;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #e1e1e1 #c6c6c6 #aeaeae;
+    cursor: default;
+    font: normal small Arial,Helvetica,sans-serif;
+    margin: 0;
+    outline: none;
+    padding: 4px;
+    position: absolute;
+    -moz-box-shadow: 2px 2px 5px #999;
+    -webkit-box-shadow: 2px 2px 5px #999;
+    box-shadow: 2px 2px 5px #999;
+    z-index: 100;
+}
